@@ -75,19 +75,6 @@ Exploring the transformation of social, economic, and political structures in ou
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidorban&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </div>
 
----
-
-## 🌟 Notable Projects
-
-<div align="center">
-  
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Network Society Masterplan](https://github.com/networksociety/masterplan)** | Strategic framework for distributed systems | Strategy, Documentation |
-| **[Sensay Hacks](https://github.com/davidorban/sensayhacks)** | Innovative hackathon prototype | TypeScript, Innovation |
-| **AI Explorations** | Various experiments in artificial intelligence | Python, ML, Neural Networks |
-
-</div>
 
 ---
 
