@@ -5,7 +5,7 @@
 <div align="center">
   
 [![Website](https://img.shields.io/badge/Website-davidorban.com-blue?style=for-the-badge&logo=google-chrome)](http://www.davidorban.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@davidorban-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidorban)
+[![X](https://img.shields.io/badge/X-@davidorban-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/davidorban)
 [![Location](https://img.shields.io/badge/Location-New%20York,%20NY-red?style=for-the-badge&logo=google-maps)](https://maps.google.com/?q=New+York,NY)
 
 </div>
@@ -36,20 +36,17 @@ I'm an advisor, entrepreneur, and thought leader passionate about understanding 
 
 ## 📚 Featured Work
 
-### 🏛️ Network Society
+### ⚡ Jolting
+Navigating the cycles of technological disruption and transformation. Understanding how jolting changes reshape industries, societies, and human potential in our rapidly evolving world.
+
+### 🤖 The AI Paradox
+Exploring the contradictions and complexities of artificial intelligence - examining both the promise and perils of AI as it transforms every aspect of human experience.
+
+### 🚀 Masterplan 4
+Strategic framework for understanding and navigating the fourth wave of technological evolution, encompassing AI, biotechnology, and the convergence of digital and physical realities.
+
+### 🌐 Network Society
 Exploring the transformation of social, economic, and political structures in our hyper-connected age. The Network Society represents a fundamental shift in how we organize, collaborate, and create value.
-
-### 💡 Innovation & Entrepreneurship
-Years of experience in:
-- Advising startups and established companies
-- Speaking at international conferences
-- Contributing to the global conversation about technology's future
-
-### 🧠 Thought Leadership
-Regular contributions to:
-- Technology strategy discussions
-- Future scenario planning
-- Innovation ecosystem development
 
 ---
 
@@ -120,7 +117,7 @@ I'm always interested in discussing:
   
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@davidorban.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidorban)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidorban)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/davidorban)
 
 </div>
 
