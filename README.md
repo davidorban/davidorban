@@ -36,17 +36,17 @@ I'm an advisor, entrepreneur, and thought leader passionate about understanding 
 
 ## 📚 Featured Work
 
-### ⚡ Jolting
-Navigating the cycles of technological disruption and transformation. Understanding how jolting changes reshape industries, societies, and human potential in our rapidly evolving world.
+### ⚡ [Jolting Technologies Hypothesis](https://github.com/davidorban/jolting)
+Empirical studies of super-exponential acceleration in technological progress. Complete code implementation including Monte Carlo jolt detection simulations, AgentBench analysis, and governance PID-lag modeling to understand technological disruption cycles.
 
-### 🤖 The AI Paradox
-Exploring the contradictions and complexities of artificial intelligence - examining both the promise and perils of AI as it transforms every aspect of human experience.
+### 🤖 [The AI Paradox Report](https://github.com/davidorban/the-ai-paradox-report)
+Early Adopters Love AI But Fear Its Future - A comprehensive analysis revealing the striking contradiction at the heart of our AI moment: those driving AI adoption are simultaneously concerned about its implications.
 
-### 🚀 Masterplan 4
-Strategic framework for understanding and navigating the fourth wave of technological evolution, encompassing AI, biotechnology, and the convergence of digital and physical realities.
+### 🚀 [Master Plan 4](https://github.com/davidorban/masterplan4)
+Sustainable Multiplanetary Civilization Through Interplanetary AI. Strategic framework for navigating the fourth wave of technological evolution, exploring the convergence of AI, space exploration, and sustainable development.
 
-### 🌐 Network Society
-Exploring the transformation of social, economic, and political structures in our hyper-connected age. The Network Society represents a fundamental shift in how we organize, collaborate, and create value.
+### 🌐 [Network Society Masterplan](https://github.com/networksociety/masterplan)
+Exploring the transformation of social, economic, and political structures in our hyper-connected age. The Network Society represents a fundamental shift in how we organize, collaborate, and create value in distributed systems.
 
 ---
 
